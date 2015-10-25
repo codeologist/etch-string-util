@@ -1,0 +1,50 @@
+{
+  "name": "etch-string-util",
+  "version": "1.0.0",
+  "description": "string utilities used by the etch suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha": "^0.4.12",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonygurnick/etch-string-util.git"
+  },
+  "author": {
+    "name": "codeolo.gy"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tonygurnick/etch-string-util/issues"
+  },
+  "homepage": "https://github.com/tonygurnick/etch-string-util#readme",
+  "gitHead": "d6584361feb059f6c8f0fcace27fd7759b055cfa",
+  "_id": "etch-string-util@1.0.0",
+  "_shasum": "d9bb8402ef016dd013d30ae1010b2f76a93caf68",
+  "_from": "etch-string-util@*",
+  "_npmVersion": "2.14.2",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "name": "codeology",
+    "email": "tony.gurnick@gmail.com"
+  },
+  "dist": {
+    "shasum": "d9bb8402ef016dd013d30ae1010b2f76a93caf68",
+    "tarball": "http://registry.npmjs.org/etch-string-util/-/etch-string-util-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "codeology",
+      "email": "tony.gurnick@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/etch-string-util/-/etch-string-util-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
